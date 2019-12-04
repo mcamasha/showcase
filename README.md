@@ -1,2 +1,0 @@
-# showcase
-Created with CodeSandbox
